@@ -8,9 +8,7 @@ _My Home page_
 ― Bill Keane
 [Visit GoodReads for more Quotes](https://www.goodreads.com/quotes/tag/hope)
 
-*Strive 
-*Thrive 
-*Resist
+*Strive, *Thrive, *Resist
  
 
 
