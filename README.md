@@ -1,8 +1,10 @@
 # Special-Topics-In-ISQA
 _My Home page_
 
-![My Phone](https://github.com/Abdulelah01/Special-Topics-In-ISQA/blob/master/IMG_0240.PNG )
+![My Phone](https://github.com/Abdulelah01/Special-Topics-In-ISQA/blob/master/IMG_0240.PNG = 250x)
 ![My phone](https://github.com/Abdulelah01/Special-Topics-In-ISQA/blob/master/IMG_0240.PNG "My phone" {width=40px height=400px})
+
+
 ## My Name is Abdulelah Almubarak
 > “Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.”
 ― Bill Keane
