@@ -1,6 +1,8 @@
 # Special-Topics-In-ISQA
 _My Home page_
-![Iphone screen](https://github.com/Abdulelah01/Special-Topics-In-ISQA/blob/master/IMG_0240.PNG)[[img src=https://github.com/Abdulelah01/Special-Topics-In-ISQA/blob/master/IMG_0240.PNG alt=width=50]]
+![Iphone screen](/IMG_0240.PNG)
+<img src="IMG_0240.PNGg" alt="Iphone"
+	title="Iphone screen" width="150" height="100" />
 
 
 ## My Name is Abdulelah Almubarak
