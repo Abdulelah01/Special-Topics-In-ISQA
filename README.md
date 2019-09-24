@@ -1,6 +1,6 @@
 # Special-Topics-In-ISQA
 _My Home page_
-![Iphone screen](/IMG_0240.PNG width=100px)
+![Iphone screen](<img src="IMG_0240.PNG" alt="Iphone screen" width="60"/> )
 
 
 
