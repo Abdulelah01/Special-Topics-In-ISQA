@@ -1,7 +1,7 @@
 # Special-Topics-In-ISQA
 _My Home page_
 
-![My Phone](IMG_0240.PNG =30*30)
+![My Phone](IMG_0240.PNG =150x)
 
 
 ## My Name is Abdulelah Almubarak
