@@ -1,8 +1,7 @@
 # Special-Topics-In-ISQA
 _My Home page_
-![Iphone screen](/IMG_0240.PNG)
-<img src="IMG_0240.PNGg" alt="Iphone"
-	title="Iphone screen" width="150" height="100" />
+![Iphone screen](/IMG_0240.PNG width=100px)
+
 
 
 ## My Name is Abdulelah Almubarak
