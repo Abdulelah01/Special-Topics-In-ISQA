@@ -1,7 +1,7 @@
 # Special-Topics-In-ISQA
 _My Home page_
 
-![My Phone](https://github.com/Abdulelah01/Special-Topics-In-ISQA/blob/master/IMG_0240.PNG =50)
+![My Phone](https://github.com/Abdulelah01/Special-Topics-In-ISQA/blob/master/IMG_0240.PNG =250x)
 
 
 ## My Name is Abdulelah Almubarak
