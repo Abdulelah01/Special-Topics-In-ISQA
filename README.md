@@ -8,8 +8,8 @@ _My Home page_
 ― Bill Keane
 [Visit GoodReads for more Quotes](https://www.goodreads.com/quotes/tag/hope)
 
-[visist assignment!](Data Entry Analysis.md) 
-[visit assignment!](Data Exploration.md)
+## [visist assignment!](https://github.com/Abdulelah01/Special-Topics-In-ISQA/blob/master/Data%20Entry%20Analysis.md) 
+## [visit assignment!](https://github.com/Abdulelah01/Special-Topics-In-ISQA/blob/master/Data%20Exploration.md)
 
  
 
