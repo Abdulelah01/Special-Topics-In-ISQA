@@ -12,8 +12,8 @@ _Here we go_
 * For empty cells we can use Not available to avoid having inconsistent data
 
 
-|    Date    |Depth_of_the_lake   |Conochilus_unicornis_#L  | Average_diameter_(mm5)  | Temperature  |
-|------------|--------------------|-------------------------|-------------------------|--------------|
-|  2011/4/6  |      50            |         72              |       2.56              |      14.1    |
-|  2011/4/6  |      25            |         54              |       2.68              |      14.1    |
-|  2011/4/6  |      NA            |         60              |       2.11              |      14.1    |
+|    Date    |Depth_of_the_lake   |Conochilus_unicornis_#L  | Average_diameter_(mm5)  | Temperature  |Chlorophyll a|
+|------------|--------------------|-------------------------|-------------------------|--------------|-------------|    
+|  2011/4/6  |      50            |         72              |       2.56              |      14.1    |    3.1      |
+|  2011/4/6  |      25            |         54              |       2.68              |      14.1    |    3.4      |
+|  2011/4/6  |      NA            |         60              |       2.11              |      14.1    |    3.2      |
