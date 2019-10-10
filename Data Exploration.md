@@ -17,12 +17,14 @@ ggplot(data = CRP_DATA)+
 
 ### Two scatter plots of two different variables, properly labeled
 ![1](Filed.acres_V_Speices.png)
+In this picture we see the Filed acres vs species which unfortunately doesn't give us the information I wanted to.  
 
 ###  One faceted plot of two variables, properly labeled
 ![2](Feact.png)
+Pending investigation 
 
 ### One scatter plot of two variables, properly labeled, with a trend
 ![3](County.png)  
-
+Pending investigation 
  
  
