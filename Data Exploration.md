@@ -4,9 +4,9 @@
 + geom_smooth(method = lm, se = FALSE, fullrange = TRUE)+
 + geom_point()..
 
-  +     ggplot(data= CRP_DATA) +
-  +     geom_point(mapping= aes (x = Field.ID, y=County)) +
-  +     facet_grid(.~Region)..
++     ggplot(data= CRP_DATA) +
++     geom_point(mapping= aes (x = Field.ID, y=County)) +
++     facet_grid(.~Region)..
 
 + barplot(County.freq, main ="Location of the County" , xlab = "County", ylab ="Count" , border= NA) ..
 
