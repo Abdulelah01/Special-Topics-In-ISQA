@@ -16,13 +16,13 @@ ggplot(data = CRP_DATA)+
   + geom_point(mapping = aes(x = Field.acres, y = X..of.species.planted))..
 
 ### Two scatter plots of two different variables, properly labeled
-[](Filed.acres_V_Speices.png)
+![1](Filed.acres_V_Speices.png)
 
 ###  One faceted plot of two variables, properly labeled
-[] (Feact.png)
+![2] (Feact.png)
 
 ### One scatter plot of two variables, properly labeled, with a trend
-[](County.png)  
+![3](County.png)  
 
  
  
